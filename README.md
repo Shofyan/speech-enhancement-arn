@@ -1,4 +1,4 @@
-# speech-enhancement-arn
+# speech enhancement attentive recurrent neural network 
 speech enhancement using atentive recurrent neural network with quatisation and compression
 
 ### Pendekatan Deep learning attentive recurrent network dengan model compression dan quantization untuk mengurangi kebisingan agar meningkatkan kejelasan suara manusia
