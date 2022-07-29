@@ -1,0 +1,8 @@
+LibriSpeech ASR corpus
+https://www.openslr.org/
+
+development data clean speech
+download https://www.openslr.org/resources/12/dev-clean.tar.gz   
+
+testing data clean speech
+https://www.openslr.org/resources/12/test-clean.tar.gz
